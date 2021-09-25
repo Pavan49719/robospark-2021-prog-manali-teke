@@ -1,7 +1,6 @@
 // You have to complete the Functions present on line 171 and 178.
 #include <stdio.h>
 #include <stdlib.h>
-#include<bits/stdc++.h>
 #define MAX 20
 // Structure for stack
 struct Stack{
